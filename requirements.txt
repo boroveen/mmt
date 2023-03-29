@@ -1,0 +1,4 @@
+pandas==1.5.3
+python_telegram_bot==20.2
+selenium==4.8.3
+telegram==0.0.1
